@@ -1,0 +1,41 @@
+
+
+
+
+body{
+    background-color: dimgray;
+    margin-top: 20%;
+    font-size: 40px;
+}
+
+div {
+    text-align: center;
+    position: relative;
+}
+button{
+    height: 5.0em;
+    width: 7.5rem;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    
+}
+.start {
+    background-color: green;
+
+}
+.pause {
+    background-color : gold;
+}
+.stop {
+    background-color : red;
+}
+
+@media (max-width: 500px){
+
+    body {
+        margin-top: 65%;
+        position: relative;
+    }
+}
