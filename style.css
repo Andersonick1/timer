@@ -14,7 +14,7 @@ div {
 }
 button{
     height: 5.0em;
-    width: 6.5rem;
+    width: 7.5rem;
     color: white;
     border: none;
     cursor: pointer;
@@ -40,5 +40,7 @@ button{
         position: relative;
     }
 
-  
+  .stop {
+    margin-top: 10px;
+}
 }
