@@ -14,7 +14,7 @@ div {
 }
 button{
     height: 5.0em;
-    width: 7.5rem;
+    width: 6.5rem;
     color: white;
     border: none;
     cursor: pointer;
@@ -40,7 +40,5 @@ button{
         position: relative;
     }
 
-    button {
-        padding-bottom: 20px;
-    }
+  
 }
